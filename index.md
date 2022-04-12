@@ -1,5 +1,5 @@
-# HelloWorld
-## Features
+# Index
+## About me 
 This program prints out "Hello world!".
 ## How to run
 Clone this project, open in your IDE of choice, and press the run button.
