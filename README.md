@@ -5,7 +5,7 @@
 ## website about me
 This program prints out "Hello world!".
 ## programs i've done
-Clone this project, open in your IDE of choice, and press the run button.
+add new page
 ## my Life
 
 That is all.
