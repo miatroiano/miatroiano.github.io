@@ -22,7 +22,6 @@ One of my favorite things to do is drive around with my friends and listen to mu
 I have previously worked at Victoria secret. I worked there from mid May 2021 to the end of February 2022. At Victoria Secret i was a sales associate, my main job was checking people out at the register, helping customers find what they need, and restocking product.
 
 
-![alternative text](mia.jpeg "Me")
-
+![alternative text](https://miatroiano.github.io/aboutme/master/mia.jpg "mia")
 
 ![alternative text](tickle.jpeg "tickle")
