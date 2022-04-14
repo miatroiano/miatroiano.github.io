@@ -21,9 +21,9 @@
 
 ## Experience
 - I have previously worked at Victoria secret. I worked there from mid May 2021 to the end of February 2022. At Victoria Secret i was a sales associate, my main job was checking people out at the register, helping customers find what they need, and restocking product.
+### Mia Troiano
+![](./miat.jpeg)
 
-![Me](./miat.jpeg)
 
-
-
-![My cat Tickle](tickle.jpeg)
+### Tickle (My cat)
+![](tickle.jpeg)
