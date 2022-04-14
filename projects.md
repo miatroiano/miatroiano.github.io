@@ -12,7 +12,7 @@
   - Clicking the sky changes the color permanently.
   - Dragging the grass moves the grass and creates a new cloud.
 
-#### challenges
+#### Challenges:
 - Figuring out how to make one object effect another was difficult in this program.
 
 ## Drawing Buttons
@@ -39,6 +39,7 @@
 #### About the Program:
 ##### MiniMaze:
   - This program in a one dimensional maze where the player is 2 and your goal is to get to the 1 by moving left or right.
+
 ##### BigMaze:
   - Similar to the MiniMaze the BigMaze's goal is to get to the 1 as the 2. The difference is the BigMaze is a 2 dimensional array.
 
