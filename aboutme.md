@@ -1,4 +1,6 @@
-# Mia Troiano
+[Home](./)
+# About Me
+Mia Troiano
 
 ## Education
 
