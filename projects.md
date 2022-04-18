@@ -1,8 +1,8 @@
-[Home](./)
+# [Home](./)
 # Projects
 
 ## Interactive Scene
-[Click here](https://github.com/miatroiano/InteractiveScene)
+[View Project](https://github.com/miatroiano/InteractiveScene)
 #### Language used:
 - Java
 - Used Wheels library for Graphics
@@ -17,7 +17,7 @@
 - Figuring out how to make one object effect another was difficult in this program.
 
 ## Drawing Buttons
-[Click here](https://github.com/miatroiano/Drawing-buttons-)
+[View Project](https://github.com/miatroiano/Drawing-buttons-)
 #### Language used:
 - Java
 - Used Wheels library for Graphics
@@ -33,7 +33,7 @@
 - The hardest part about this program was making the left button change colors with every click.
 
 ## Maze
-[Click here](https://github.com/miatroiano/Maze)
+[View Project](https://github.com/miatroiano/Maze)
 #### Language used:
 - Java
 
@@ -45,7 +45,7 @@
   - Similar to the MiniMaze the BigMaze's goal is to get to the 1 as the 2. The difference is the BigMaze is a 2 dimensional array.
 
 ## Profile Reader
-[Click here](https://github.com/miatroiano/ProfileReader)
+[View Project](https://github.com/miatroiano/ProfileReader)
 #### Language used:
 - Java
 
