@@ -2,3 +2,4 @@ name: Mia_Troiano-Website
 title: Home
 plugins:
   - jemoji
+remote_theme: broccolini/swiss
