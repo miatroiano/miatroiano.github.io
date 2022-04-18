@@ -8,7 +8,6 @@ Mia Troiano
 - Sacred Heart Academy 2017 - 2019
 - Cheshire Academy 2019 - 2021
 
-
 ### College:
 - Quinnipiac University: 2021 - present
 ###Major:

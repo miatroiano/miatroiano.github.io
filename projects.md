@@ -3,6 +3,7 @@
 
 ## Interactive Scene
 [View Project](https://github.com/miatroiano/InteractiveScene)
+
 #### Language used:
 - Java
 - Used Wheels library for Graphics
@@ -18,6 +19,7 @@
 
 ## Drawing Buttons
 [View Project](https://github.com/miatroiano/Drawing-buttons-)
+
 #### Language used:
 - Java
 - Used Wheels library for Graphics
@@ -34,6 +36,7 @@
 
 ## Maze
 [View Project](https://github.com/miatroiano/Maze)
+
 #### Language used:
 - Java
 
@@ -46,6 +49,7 @@
 
 ## Profile Reader
 [View Project](https://github.com/miatroiano/ProfileReader)
+
 #### Language used:
 - Java
 
