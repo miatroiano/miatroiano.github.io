@@ -1,6 +1,6 @@
-# [Home](./)
+[Home](./)
 # About Me
-Mia Troiano
+## Mia Troiano
 
 ## Education
 

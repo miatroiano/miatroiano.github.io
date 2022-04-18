@@ -1,4 +1,4 @@
-# [Home](./)
+[Home](./)
 # Projects
 
 ## Interactive Scene
