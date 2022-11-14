@@ -10,7 +10,7 @@
 
 ### College:
 - Quinnipiac University: 2021 - present
-###Major:
+### Major:
 - Computer Science
 
 ## What Got Me Into Computer Science
