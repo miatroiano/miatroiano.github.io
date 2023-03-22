@@ -9,7 +9,7 @@
 
 ### College:
 - Quinnipiac University: 2021 - present
-- 
+
 ### Major:
 - Computer Science
 
