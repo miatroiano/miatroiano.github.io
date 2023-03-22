@@ -2,7 +2,7 @@
 # Projects
 
 ## Yup!
-[View Project](https://github.com/miatroiano/InteractiveScene)
+[View Project](https://github.com/rpekash/Yup-RPG-Game)
 
 #### Language used:
 - Java
