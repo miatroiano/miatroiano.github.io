@@ -71,10 +71,10 @@
 
 #### About the Program:
 ##### MiniMaze:
-  - This program in a one dimensional maze where the player is 2 and your goal is to get to the 1 by moving left or right.
+  -  This program in a one dimensional maze where the player is 2 and your goal is to get to the 1 by moving left or right.
 
 ##### BigMaze:
-  - Similar to the MiniMaze the BigMaze's goal is to get to the 1 as the 2. The difference is the BigMaze is a 2 dimensional array.
+  -  Similar to the MiniMaze the BigMaze's goal is to get to the 1 as the 2. The difference is the BigMaze is a 2 dimensional array.
 
 
 ## Profile Reader
